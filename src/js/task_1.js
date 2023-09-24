@@ -1,11 +1,8 @@
-const a = 10;
+const a = 5;
 
-const b = 30;
+const b = 6;
 
 const c = a + b;
 
 const d = a + b + c;
 
-console.log(c);
-
-console.log(d);
